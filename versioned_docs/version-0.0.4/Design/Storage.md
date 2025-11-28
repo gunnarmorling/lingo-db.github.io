@@ -9,7 +9,7 @@ Thus, LingoDB does not come with an optimized storage backend and currently does
 ## In-Memory Format: Apache Arrow
 
 The Apache Arrow columnar layout is used for the in-memory representation of tabular data.
-Thus, LingoDB can exchange data with existing libraries and frameworks withoug any overhead and can directly query
+Thus, LingoDB can exchange data with existing libraries and frameworks without any overhead and can directly query
 Apache Arrow tables.
 
 ## Persistent Storage
